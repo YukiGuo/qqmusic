@@ -1,0 +1,404 @@
+{
+    "ret" :true,
+    "data": {
+    	"playlist":[{
+        		"id":"001",
+        		"author":"QQ音乐新歌推荐",
+        		"title":"每日新歌：可龙宝温柔治愈整个冬日",
+                "playNum":"2.8万",
+                "collectNum":"267",
+                "url":"https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfEyCaJ7CCLTe65h53Gv4A88B6gwt25kZIicA/300?n=1",
+                "songList":[
+                	{
+                		"id":"001",
+                		"songNme":"Lay Your Head On Me",
+                		"singer":"크러쉬 (Crush) / Garibay",
+                		"cd":"Lay Your Head On me",
+                		"time":"03:01"
+                	},
+                	{
+                		"id":"002",
+                		"songNme":"天使" ,
+                		"singer": "王源",
+                		"cd": "天使",
+                		"time":"05:00"
+                	},
+                	{
+                		"id":"003",
+                		"songNme":"关于你的故事" ,
+                		"singer": "叶炫清 ",
+                		"cd":"关于你的故事 " ,
+                		"time":"04:23"
+                	},
+                	{
+                		"id":"004",
+                		"songNme": "For You",
+                		"singer":"高颖浠" ,
+                		"cd": "For You",
+                		"time":"03:42"
+                	},
+                	{
+                		"id":"005",
+                		"songNme":"Different Game (Live)" ,
+                		"singer": " 王嘉尔 ",
+                		"cd": "梦想的声音第三季 第4期删除",
+                		"time":"02:48"
+                	}
+                ]
+           },{
+                "id":"002",
+                "author":"QQ音乐新歌推荐",
+                "title":"每日新歌：可龙宝温柔治愈整个冬日",
+                "playNum":"2.8万",
+                "collectNum":"267",
+                "url":"https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfEyCaJ7CCLTe65h53Gv4A88B6gwt25kZIicA/300?n=1",
+                "songList":[
+                    {
+                        "id":"001",
+                        "songNme":"Lay Your Head On Me",
+                        "singer":"크러쉬 (Crush) / Garibay",
+                        "cd":"Lay Your Head On me",
+                        "time":"03:01"
+                    },
+                    {
+                        "id":"002",
+                        "songNme":"天使" ,
+                        "singer": "王源",
+                        "cd": "天使",
+                        "time":"05:00"
+                    },
+                    {
+                        "id":"003",
+                        "songNme":"关于你的故事" ,
+                        "singer": "叶炫清 ",
+                        "cd":"关于你的故事 " ,
+                        "time":"04:23"
+                    },
+                    {
+                        "id":"004",
+                        "songNme": "For You",
+                        "singer":"高颖浠" ,
+                        "cd": "For You",
+                        "time":"03:42"
+                    },
+                    {
+                        "id":"005",
+                        "songNme":"Different Game (Live)" ,
+                        "singer": " 王嘉尔 ",
+                        "cd": "梦想的声音第三季 第4期删除",
+                        "time":"02:48"
+                    }
+                ]
+           },{
+                "id":"003",
+                "author":"QQ音乐新歌推荐",
+                "title":"每日新歌：可龙宝温柔治愈整个冬日",
+                "playNum":"2.8万",
+                "collectNum":"267",
+                "url":"https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfEyCaJ7CCLTe65h53Gv4A88B6gwt25kZIicA/300?n=1",
+                "songList":[
+                    {
+                        "id":"001",
+                        "songNme":"Lay Your Head On Me",
+                        "singer":"크러쉬 (Crush) / Garibay",
+                        "cd":"Lay Your Head On me",
+                        "time":"03:01"
+                    },
+                    {
+                        "id":"004",
+                        "songNme":"天使" ,
+                        "singer": "王源",
+                        "cd": "天使",
+                        "time":"05:00"
+                    },
+                    {
+                        "id":"003",
+                        "songNme":"关于你的故事" ,
+                        "singer": "叶炫清 ",
+                        "cd":"关于你的故事 " ,
+                        "time":"04:23"
+                    },
+                    {
+                        "id":"004",
+                        "songNme": "For You",
+                        "singer":"高颖浠" ,
+                        "cd": "For You",
+                        "time":"03:42"
+                    },
+                    {
+                        "id":"005",
+                        "songNme":"Different Game (Live)" ,
+                        "singer": " 王嘉尔 ",
+                        "cd": "梦想的声音第三季 第4期删除",
+                        "time":"02:48"
+                    }
+                ]
+           },{
+                "id":"004",
+                "author":"QQ音乐新歌推荐",
+                "title":"每日新歌：可龙宝温柔治愈整个冬日",
+                "playNum":"2.8万",
+                "collectNum":"267",
+                "url":"https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfEyCaJ7CCLTe65h53Gv4A88B6gwt25kZIicA/300?n=1",
+                "songList":[
+                    {
+                        "id":"001",
+                        "songNme":"Lay Your Head On Me",
+                        "singer":"크러쉬 (Crush) / Garibay",
+                        "cd":"Lay Your Head On me",
+                        "time":"03:01"
+                    },
+                    {
+                        "id":"004",
+                        "songNme":"天使" ,
+                        "singer": "王源",
+                        "cd": "天使",
+                        "time":"05:00"
+                    },
+                    {
+                        "id":"003",
+                        "songNme":"关于你的故事" ,
+                        "singer": "叶炫清 ",
+                        "cd":"关于你的故事 " ,
+                        "time":"04:23"
+                    },
+                    {
+                        "id":"004",
+                        "songNme": "For You",
+                        "singer":"高颖浠" ,
+                        "cd": "For You",
+                        "time":"03:42"
+                    },
+                    {
+                        "id":"005",
+                        "songNme":"Different Game (Live)" ,
+                        "singer": " 王嘉尔 ",
+                        "cd": "梦想的声音第三季 第4期删除",
+                        "time":"02:48"
+                    }
+                ]
+           }, {
+                "id":"005",
+                "author":"鹅猴综艺狸",
+                "title":"成长助推剂｜愿你成为你自己",
+                "playNum":"23937",
+                "collectNum":"33",
+                "url":"https://p.qpic.cn/music_cover/JBDCVgqXWXaYUvcsElqcicUaAjicbDWBz3HjyCcDo6m3fdwry2X2VHCQ/300?n=1",
+                "songList":[
+                    {  
+                        "id":"001",
+                        "songNme":"Screaming 呐喊 (Live)",
+                        "singer":"迪玛希Dimash",
+                        "cd":"中国音乐公告牌 第3期",
+                        "time":"05:26"
+                    },
+                    {
+                        "id":"002",
+                        "songNme":"天使" ,
+                        "singer": "王源",
+                        "cd": "天使",
+                        "time":"05:00"
+                    },
+                    {
+                        "id":"003",
+                        "songNme":"关于你的故事" ,
+                        "singer": "叶炫清 ",
+                        "cd":"关于你的故事 " ,
+                        "time":"04:23"
+                    },
+                    {
+                        "id":"004",
+                        "songNme": "For You",
+                        "singer":"高颖浠" ,
+                        "cd": "For You",
+                        "time":"03:42"
+                    },
+                    {
+                        "id":"005",
+                        "songNme":"Different Game (Live)" ,
+                        "singer": " 王嘉尔 ",
+                        "cd": "梦想的声音第三季 第4期删除",
+                        "time":"02:48"
+                    }
+               ]
+           },
+           {
+                "id":"006",
+                "author":"鹅猴综艺狸",
+                "title":"成长助推剂｜愿你成为你自己",
+                "playNum":"23937",
+                "collectNum":"33",
+                "url":"https://p.qpic.cn/music_cover/JBDCVgqXWXaYUvcsElqcicUaAjicbDWBz3HjyCcDo6m3fdwry2X2VHCQ/300?n=1",
+                "songList":[
+                    {  
+                        "id":"001",
+                        "songNme":"Screaming 呐喊 (Live)",
+                        "singer":"迪玛希Dimash",
+                        "cd":"中国音乐公告牌 第3期",
+                        "time":"05:26"
+                    },
+                    {
+                        "id":"002",
+                        "songNme":"天使" ,
+                        "singer": "王源",
+                        "cd": "天使",
+                        "time":"05:00"
+                    },
+                    {
+                        "id":"003",
+                        "songNme":"关于你的故事" ,
+                        "singer": "叶炫清 ",
+                        "cd":"关于你的故事 " ,
+                        "time":"04:23"
+                    },
+                    {
+                        "id":"004",
+                        "songNme": "For You",
+                        "singer":"高颖浠" ,
+                        "cd": "For You",
+                        "time":"03:42"
+                    },
+                    {
+                        "id":"005",
+                        "songNme":"Different Game (Live)" ,
+                        "singer": " 王嘉尔 ",
+                        "cd": "梦想的声音第三季 第4期删除",
+                        "time":"02:48"
+                    }
+               ]
+           },{
+        		"id":"007",
+        		"author":"鹅猴综艺狸",
+        		"title":"成长助推剂｜愿你成为你自己",
+                "playNum":"23937",
+                "collectNum":"33",
+                "url":"https://p.qpic.cn/music_cover/JBDCVgqXWXaYUvcsElqcicUaAjicbDWBz3HjyCcDo6m3fdwry2X2VHCQ/300?n=1",
+                "songList":[
+                	{  
+                		"id":"001",
+                		"songNme":"Screaming 呐喊 (Live)",
+                		"singer":"迪玛希Dimash",
+                		"cd":"中国音乐公告牌 第3期",
+                		"time":"05:26"
+                	},
+                	{
+                		"id":"002",
+                		"songNme":"天使" ,
+                		"singer": "王源",
+                		"cd": "天使",
+                		"time":"05:00"
+                	},
+                	{
+                		"id":"003",
+                		"songNme":"关于你的故事" ,
+                		"singer": "叶炫清 ",
+                		"cd":"关于你的故事 " ,
+                		"time":"04:23"
+                	},
+                	{
+                		"id":"004",
+                		"songNme": "For You",
+                		"singer":"高颖浠" ,
+                		"cd": "For You",
+                		"time":"03:42"
+                	},
+                	{
+                		"id":"005",
+                		"songNme":"Different Game (Live)" ,
+                		"singer": " 王嘉尔 ",
+                		"cd": "梦想的声音第三季 第4期删除",
+                		"time":"02:48"
+                	}
+        	   ]
+           },{ 
+        		"id":"008",
+        		"author":"达人周末",
+        		"title":"达人周末 | 最喜欢的漫威电影音乐",
+                "platNum":"13.1万",
+                "collectNum":"1935",
+                "url":"https://p.qpic.cn/music_cover/ESQkDB4ohgibFpRT23xHVFXDQaR1pxyIhLicPRvTxczOUichichRTWIU6A/300?n=1",
+                "songList":[
+                	{  
+                		"id":"001",
+                		"songNme":"Hero《蜘蛛侠》电影插曲",
+                		"singer":"Chad Kroeger / Josey Scott",
+                		"cd":"Spider-Man (Music from and Inspired By)",
+                		"time":"03:19"
+                	},
+                	{
+                		"id":"002",
+                		"songNme":"天使" ,
+                		"singer": "王源",
+                		"cd": "天使",
+                		"time":"05:00"
+                	},
+                	{
+                		"id":"003",
+                		"songNme":"关于你的故事" ,
+                		"singer": "叶炫清 ",
+                		"cd":"关于你的故事 " ,
+                		"time":"04:23"
+                	},
+                	{
+                		"id":"004",
+                		"songNme": "For You",
+                		"singer":"高颖浠" ,
+                		"cd": "For You",
+                		"time":"03:42"
+                	},
+                	{
+                		"id":"005",
+                		"songNme":"Different Game (Live)" ,
+                		"singer": " 王嘉尔 ",
+                		"cd": "梦想的声音第三季 第4期删除",
+                		"time":"02:48"
+                	}
+        	    ]
+           },{ 
+        		"id":"009",
+        		"author":"念安娜",
+        		"title":"温柔女声：撩动心弦100%",
+                "platNum":"33.1万",
+                "collectNum":"4935",
+                "url":"https://p.qpic.cn/music_cover/R8unPZMA4Vp5v2Ms96bst9ayqKJwRSEBxsLMyTfRZC2sOwBIV7ajXw/300?n=1",
+                "songList":[
+                	{  
+                		"id":"001",
+                		"songNme":"一个人",
+                		"singer":"宋黛霆 ",
+                		"cd":"一个人",
+                		"time":"04:11"
+                	},
+                	{
+                		"id":"002",
+                		"songNme":"天使" ,
+                		"singer": "王源",
+                		"cd": "天使",
+                		"time":"05:00"
+                	},
+                	{
+                		"id":"003",
+                		"songNme":"关于你的故事" ,
+                		"singer": "叶炫清 ",
+                		"cd":"关于你的故事 " ,
+                		"time":"04:23"
+                	},
+                	{
+                		"id":"004",
+                		"songNme": "For You",
+                		"singer":"高颖浠" ,
+                		"cd": "For You",
+                		"time":"03:42"
+                	},
+                	{
+                		"id":"005",
+                		"songNme":"Different Game (Live)" ,
+                		"singer": " 王嘉尔 ",
+                		"cd": "梦想的声音第三季 第4期删除",
+                		"time":"02:48"
+                	}
+        	    ]
+            }
+       ]
+    }	
+}
